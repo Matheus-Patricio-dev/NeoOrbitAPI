@@ -1,0 +1,8 @@
+/node_modules
+/src/app.js
+/src/db.js
+/src/router.js
+/src/server.js
+/uploads
+/.env
+/build
