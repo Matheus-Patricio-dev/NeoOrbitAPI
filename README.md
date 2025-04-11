@@ -10,6 +10,7 @@ API REST para colocar os dados que irão estar disponiveis na aplicação da Neo
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - Node
+- Typescript
 - Express
 - PostgreeSQL
 --- 
