@@ -1,6 +1,8 @@
 import pkg from 'pg';
 import { DatabaseError } from 'pg';
 const { Client } = pkg;
+import dotenv from "dotenv"
+dotenv.config()
 
 // Configuração da conexão com o PostgreSQL
 const client = new Client({
